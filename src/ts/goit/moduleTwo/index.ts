@@ -86,5 +86,5 @@
 
 // calc(1, 1, (num1, num2) => num1 + num2);
 // calc(10, 5, (num1, num2) => num1 - num2);
-type Animal = { id: number; name: string; type: string; age: number; };
-const dog: Pick<Animal, 'name' | 'age'> = { name: 'Rex', age: 5 };
+// type Animal = { id: number; name: string; type: string; age: number; };
+// const dog: Pick<Animal, 'name' | 'age'> = { name: 'Rex', age: 5 };
