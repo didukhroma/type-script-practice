@@ -16,7 +16,12 @@
     "skipLibCheck": true,
     "strictNullChecks": true,
     "target": "es2019",
-    "sourceMap": true
+    "sourceMap": true,
+   "useUnknownInCatchVariables": true,
+   "noImplicitAny": true,
+   "strictBindCallApply": true,
+   "noImplicitThis": true,
+    "strictPropertyInitialization": true
   },
   "include": ["**/*.ts"],
   
