@@ -224,11 +224,11 @@ console.log('lecture two')
 // }
 
 // class AUser extends Form {
-//     constructor(name: string, age: number) { 
+//     constructor(name: string, age: number) {
 //          super(name,age)
 //      }
 
 // }
 
 // const Alice = new User('Alice', 18)
-console.log(Alice)
+// console.log(Alice)
